@@ -15,8 +15,8 @@ Technology used in Frontend: Reactjs
 3. Rename `.env.example` to `.env`
 4. Run `composer install`
 5. Run `php artisan key:generate`
-6. (If you get routing errors at this step, run `php artisan route:cache`. If not, skip it)
 7. Run project: `php artisan serve`
+6. (If you get routing errors at this step, run `php artisan route:cache`. If not, skip it)
 8. Go to link `127.0.0.1:8000/orders`
 
 ## Note: 
