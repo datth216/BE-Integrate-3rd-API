@@ -17,7 +17,7 @@ Technology used in Frontend: Reactjs
 5. Run `php artisan key:generate`
 6. (If you get routing errors at this step, run `php artisan route:cache`. If not, skip it)
 7. Run project: `php artisan serve`
-8. Go to link `127.0.0.1:8000`
+8. Go to link `127.0.0.1:8000/orders`
 
 ## Note: 
 1. Run Backend Project at the same time with Frontend Project (FE-Integrate-3rd-API)
