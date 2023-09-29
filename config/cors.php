@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['localhost:5173'],
+    'allowed_origins' => ['localhost:5173', 'https://fe-integrate-3rd-api.vercel.app/'],
 
     'allowed_origins_patterns' => [],
 
