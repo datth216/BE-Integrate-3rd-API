@@ -12,7 +12,8 @@ Technology used in Frontend: Reactjs
 
 1. Clone this project
 2. Open the project in IDE and install all packages using the command line: `npm install` or `npm i`
-3. Run project: `php artisan serve` and go to link: 127.0.0.1:8000/orders
+3. Run project: `php artisan serve`
+4. Go to link `127.0.0.1:8000`
 
 ## Note: 
 1. Run Backend Project at the same time with Frontend Project (FE-Integrate-3rd-API)
