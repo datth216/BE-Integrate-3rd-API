@@ -4,7 +4,7 @@ The goal is to write a simple app using the 3rd party API. In this assignment, w
 
 ## About this project
 
-Technology used in Backend: Laravel
+Technology used in Backend: Laravel (At least from `PHP` version `7.4` and above)
 
 Technology used in Frontend: Reactjs
 
