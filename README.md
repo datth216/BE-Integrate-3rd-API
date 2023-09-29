@@ -10,7 +10,7 @@ Technology used in Frontend: Reactjs
 
 ## How to run the application
 
-1. Clone this project
+1. Clone this project and put it in folder `C:\xampp\htdocs` (use XAMPP)
 2. Open the project in IDE and install all packages using the command line: `npm install` or `npm i`
 3. Rename `.env.example` to `.env`
 4. Run `composer install`
